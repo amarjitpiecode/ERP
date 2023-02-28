@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AZTkNZEhwvDKIiZzH3/atBte3l9fPXPtKIe2v83p1ArGQj+Emjpa3PqmwjdjL5NuXeui0HX02ohDKrToV2JI+A==",
+  "dgSpecHash": "rideERYpwYrbjQ4zKZeYqTOBp0TDpcry3EbwUqD97Za3Mu5sHTmQML5tmzAwUGA1bvVLwMQJqGru8rXutzT3uw==",
   "success": true,
-  "projectFilePath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj",
+  "projectFilePath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

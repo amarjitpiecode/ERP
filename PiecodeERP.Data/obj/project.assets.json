@@ -772,11 +772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj",
+      "projectUniqueName": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj",
       "projectName": "PiecodeERP.Data",
-      "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj",
+      "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\obj\\",
+      "outputPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3959,11 +3959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeErp\\PieCodeErp.csproj",
+      "projectUniqueName": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\PieCodeErp.csproj",
       "projectName": "PieCodeErp",
-      "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeErp\\PieCodeErp.csproj",
+      "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\PieCodeErp.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeErp\\obj\\",
+      "outputPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3983,14 +3983,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj": {
-              "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj"
+            "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj": {
+              "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj"
             },
-            "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj": {
-              "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj"
+            "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj": {
+              "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj"
             },
-            "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
-              "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj"
+            "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
+              "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj"
             }
           }
         }

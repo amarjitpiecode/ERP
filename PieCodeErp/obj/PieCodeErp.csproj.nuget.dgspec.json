@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeErp\\PieCodeErp.csproj": {}
+    "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\PieCodeErp.csproj": {}
   },
   "projects": {
-    "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj": {
+    "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj",
+        "projectUniqueName": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj",
         "projectName": "PiecodeERP.Data",
-        "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj",
+        "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\obj\\",
+        "outputPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj": {
+    "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj",
+        "projectUniqueName": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj",
         "projectName": "PieCodeERP.Repo",
-        "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj",
+        "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\obj\\",
+        "outputPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -106,8 +106,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj": {
-                "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj"
+              "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj": {
+                "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj"
               }
             }
           }
@@ -182,14 +182,14 @@
         }
       }
     },
-    "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj": {
+    "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj",
+        "projectUniqueName": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj",
         "projectName": "PieCodeERP.Service",
-        "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj",
+        "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Service\\obj\\",
+        "outputPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -209,14 +209,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj": {
-                "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj"
+              "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj": {
+                "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj"
               },
-              "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj": {
-                "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj"
+              "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj": {
+                "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj"
               },
-              "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
-                "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj"
+              "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
+                "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj"
               }
             }
           }
@@ -259,14 +259,14 @@
         }
       }
     },
-    "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
+    "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj",
+        "projectUniqueName": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj",
         "projectName": "PieCodeERP.ViewModel",
-        "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj",
+        "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\obj\\",
+        "outputPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -326,14 +326,14 @@
         }
       }
     },
-    "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeErp\\PieCodeErp.csproj": {
+    "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\PieCodeErp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeErp\\PieCodeErp.csproj",
+        "projectUniqueName": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\PieCodeErp.csproj",
         "projectName": "PieCodeErp",
-        "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeErp\\PieCodeErp.csproj",
+        "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\PieCodeErp.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeErp\\obj\\",
+        "outputPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -353,14 +353,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj": {
-                "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj"
+              "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj": {
+                "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj"
               },
-              "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj": {
-                "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj"
+              "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj": {
+                "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.Service\\PieCodeERP.Service.csproj"
               },
-              "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
-                "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj"
+              "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
+                "projectPath": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj"
               }
             }
           }

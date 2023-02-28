@@ -25,6 +25,7 @@ namespace PieCodeERP.Repo
         public DbSet<BranchMaster> BranchMasters { get; set; }
         public DbSet<CompanyMaster> CompanyMasters { get; set; }
         public DbSet<CostCenter> CostCenters { get; set; }
+        public DbSet<Employee> Employees { get; set; }
 
     }
 }
