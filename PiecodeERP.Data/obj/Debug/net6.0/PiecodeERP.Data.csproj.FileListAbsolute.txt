@@ -10,3 +10,15 @@ E:\Amarjit _Kumar\PiecodeERP.Data\obj\Debug\net6.0\PiecodeERP.Data.dll
 E:\Amarjit _Kumar\PiecodeERP.Data\obj\Debug\net6.0\refint\PiecodeERP.Data.dll
 E:\Amarjit _Kumar\PiecodeERP.Data\obj\Debug\net6.0\PiecodeERP.Data.pdb
 E:\Amarjit _Kumar\PiecodeERP.Data\obj\Debug\net6.0\ref\PiecodeERP.Data.dll
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\bin\Debug\net6.0\PiecodeERP.Data.deps.json
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\bin\Debug\net6.0\PiecodeERP.Data.dll
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\bin\Debug\net6.0\PiecodeERP.Data.pdb
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\obj\Debug\net6.0\PiecodeERP.Data.csproj.AssemblyReference.cache
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\obj\Debug\net6.0\PiecodeERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\obj\Debug\net6.0\PiecodeERP.Data.AssemblyInfoInputs.cache
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\obj\Debug\net6.0\PiecodeERP.Data.AssemblyInfo.cs
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\obj\Debug\net6.0\PiecodeERP.Data.csproj.CoreCompileInputs.cache
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\obj\Debug\net6.0\PiecodeERP.Data.dll
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\obj\Debug\net6.0\refint\PiecodeERP.Data.dll
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\obj\Debug\net6.0\PiecodeERP.Data.pdb
+E:\Amarjit _Kumar\Git\ERP\PiecodeERP.Data\obj\Debug\net6.0\ref\PiecodeERP.Data.dll

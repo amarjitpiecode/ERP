@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Amarjit _Kumar\\Git\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {}
+    "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {}
   },
   "projects": {
-    "E:\\Amarjit _Kumar\\Git\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
+    "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj",
+        "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj",
         "projectName": "PieCodeERP.ViewModel",
-        "projectPath": "E:\\Amarjit _Kumar\\Git\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj",
+        "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\PieCodeERP.ViewModel.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Amarjit _Kumar\\Git\\PieCodeERP.ViewModel\\obj\\",
+        "outputPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,193 +8,193 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PieCodeErp
 build_property.RootNamespace = PieCodeErp
-build_property.ProjectDir = E:\Amarjit _Kumar\Git\PieCodeErp\
+build_property.ProjectDir = E:\Amarjit _Kumar\Git\ERP\PieCodeErp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Amarjit _Kumar\Git\PieCodeErp
+build_property.MSBuildProjectDirectory = E:\Amarjit _Kumar\Git\ERP\PieCodeErp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Branch/Index.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Branch/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Branch/ManageBranch.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Branch/ManageBranch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXE1hbmFnZUJyYW5jaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Company/Index.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Company/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Company/ManageCompany.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Company/ManageCompany.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxNYW5hZ2VDb21wYW55LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/CostCenter/Index.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/CostCenter/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zdENlbnRlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/CostCenter/ManageCostCenter.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/CostCenter/ManageCostCenter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zdENlbnRlclxNYW5hZ2VDb3N0Q2VudGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Department/Index.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Department/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Department/ManageDepartment.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Department/ManageDepartment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxNYW5hZ2VEZXBhcnRtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Home/Icons.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Home/Icons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJY29ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Home/Index.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Home/Privacy.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Home/Profile.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Home/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Home/Status404.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Home/Status404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdGF0dXM0MDQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Home/Status4xx.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Home/Status4xx.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdGF0dXM0eHguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Home/Tables.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Home/Tables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYWJsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Home/Upgrade.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Home/Upgrade.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGdyYWRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Region/Create.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Region/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Region/Index.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Region/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Region/ManageRegion.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Region/ManageRegion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9uXE1hbmFnZVJlZ2lvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Auth/_Footer.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Auth/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEF1dGhcX0Zvb3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Auth/_Header.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Auth/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEF1dGhcX0hlYWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Auth/_Navbar.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Auth/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEF1dGhcX05hdmJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Error.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Topnav/_CurrentUser.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Topnav/_CurrentUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcG5hdlxfQ3VycmVudFVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Topnav/_Dropdown.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Topnav/_Dropdown.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcG5hdlxfRHJvcGRvd24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Topnav/_Links.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Topnav/_Links.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcG5hdlxfTGlua3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Topnav/_Search.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Topnav/_Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcG5hdlxfU2VhcmNoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Topnav/_Topnav.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Topnav/_Topnav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcG5hdlxfVG9wbmF2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/Topnav/_TopnavProfile.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/Topnav/_TopnavProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcG5hdlxfVG9wbmF2UHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_Breadcrumbs.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_Breadcrumbs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CcmVhZGNydW1icy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_CommonDeleteModal.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_CommonDeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db21tb25EZWxldGVNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_Dropdown.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_Dropdown.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ecm9wZG93bi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_Footer.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_Header.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_LayoutProfile.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_LayoutProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_Navbar.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_NavbarUserInfo.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_NavbarUserInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXJVc2VySW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_PageHeadElement.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_PageHeadElement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdlSGVhZEVsZW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_Sidebar.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_Sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_Sidenav.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_Sidenav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlbmF2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_ThemeScripts.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_ThemeScripts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UaGVtZVNjcmlwdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_ThemeStyles.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_ThemeStyles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UaGVtZVN0eWxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/_ViewImports.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/_ViewStart.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Amarjit _Kumar/Git/PieCodeErp/Views/Shared/_Layout.cshtml]
+[E:/Amarjit _Kumar/Git/ERP/PieCodeErp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jz619xiuou

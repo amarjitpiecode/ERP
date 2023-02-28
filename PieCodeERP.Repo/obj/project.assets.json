@@ -3934,11 +3934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj",
+      "projectUniqueName": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj",
       "projectName": "PieCodeERP.Repo",
-      "projectPath": "E:\\Amarjit _Kumar\\Git\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj",
+      "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\PieCodeERP.Repo.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\Amarjit _Kumar\\Git\\PieCodeERP.Repo\\obj\\",
+      "outputPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PieCodeERP.Repo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3958,8 +3958,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Amarjit _Kumar\\Git\\PiecodeERP.Data\\PiecodeERP.Data.csproj": {
-              "projectPath": "E:\\Amarjit _Kumar\\Git\\PiecodeERP.Data\\PiecodeERP.Data.csproj"
+            "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj": {
+              "projectPath": "E:\\Amarjit _Kumar\\Git\\ERP\\PiecodeERP.Data\\PiecodeERP.Data.csproj"
             }
           }
         }

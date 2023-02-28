@@ -10,3 +10,15 @@ E:\Amarjit _Kumar\PieCodeERP.ViewModel\obj\Debug\net6.0\PieCodeERP.ViewModel.dll
 E:\Amarjit _Kumar\PieCodeERP.ViewModel\obj\Debug\net6.0\refint\PieCodeERP.ViewModel.dll
 E:\Amarjit _Kumar\PieCodeERP.ViewModel\obj\Debug\net6.0\PieCodeERP.ViewModel.pdb
 E:\Amarjit _Kumar\PieCodeERP.ViewModel\obj\Debug\net6.0\ref\PieCodeERP.ViewModel.dll
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\bin\Debug\net6.0\PieCodeERP.ViewModel.deps.json
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\bin\Debug\net6.0\PieCodeERP.ViewModel.dll
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\bin\Debug\net6.0\PieCodeERP.ViewModel.pdb
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\obj\Debug\net6.0\PieCodeERP.ViewModel.csproj.AssemblyReference.cache
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\obj\Debug\net6.0\PieCodeERP.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\obj\Debug\net6.0\PieCodeERP.ViewModel.AssemblyInfoInputs.cache
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\obj\Debug\net6.0\PieCodeERP.ViewModel.AssemblyInfo.cs
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\obj\Debug\net6.0\PieCodeERP.ViewModel.csproj.CoreCompileInputs.cache
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\obj\Debug\net6.0\PieCodeERP.ViewModel.dll
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\obj\Debug\net6.0\refint\PieCodeERP.ViewModel.dll
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\obj\Debug\net6.0\PieCodeERP.ViewModel.pdb
+E:\Amarjit _Kumar\Git\ERP\PieCodeERP.ViewModel\obj\Debug\net6.0\ref\PieCodeERP.ViewModel.dll
