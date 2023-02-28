@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PieCodeErp", "PieCodeErp.csproj", "{2B141985-B32A-4B25-8883-DA1EBD7C6F39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiecodeERP.Data", "..\PiecodeERP.Data\PiecodeERP.Data.csproj", "{324D7B09-6DF6-410C-88A4-8928F2FC8F3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PieCodeERP.Repo", "..\PieCodeERP.Repo\PieCodeERP.Repo.csproj", "{E1F030AF-7FBD-49AC-B297-D1B53B945322}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PieCodeERP.Service", "..\PieCodeERP.Service\PieCodeERP.Service.csproj", "{6F6C45B9-8C68-4696-AEED-C1F2B93152AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PieCodeERP.ViewModel", "..\PieCodeERP.ViewModel\PieCodeERP.ViewModel.csproj", "{D94CED61-A6D9-4DAA-A693-3090BDCDE2E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B141985-B32A-4B25-8883-DA1EBD7C6F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B141985-B32A-4B25-8883-DA1EBD7C6F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B141985-B32A-4B25-8883-DA1EBD7C6F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B141985-B32A-4B25-8883-DA1EBD7C6F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324D7B09-6DF6-410C-88A4-8928F2FC8F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324D7B09-6DF6-410C-88A4-8928F2FC8F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324D7B09-6DF6-410C-88A4-8928F2FC8F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324D7B09-6DF6-410C-88A4-8928F2FC8F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F030AF-7FBD-49AC-B297-D1B53B945322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F030AF-7FBD-49AC-B297-D1B53B945322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F030AF-7FBD-49AC-B297-D1B53B945322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F030AF-7FBD-49AC-B297-D1B53B945322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6C45B9-8C68-4696-AEED-C1F2B93152AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6C45B9-8C68-4696-AEED-C1F2B93152AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6C45B9-8C68-4696-AEED-C1F2B93152AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6C45B9-8C68-4696-AEED-C1F2B93152AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94CED61-A6D9-4DAA-A693-3090BDCDE2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94CED61-A6D9-4DAA-A693-3090BDCDE2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94CED61-A6D9-4DAA-A693-3090BDCDE2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94CED61-A6D9-4DAA-A693-3090BDCDE2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2163D424-81C3-4E51-BB9B-240BD736E10D}
+	EndGlobalSection
+EndGlobal
