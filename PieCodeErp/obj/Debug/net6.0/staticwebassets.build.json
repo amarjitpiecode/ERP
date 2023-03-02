@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a1VDQRHW6f2To3Ie3CbVovyCDRkLBD+ilxinxoUB5+k=",
+  "Hash": "XHRJ7o/6WKhpiA14+fqZzYN8BKJJC898caPVYSSULkQ=",
   "Source": "PieCodeErp",
   "BasePath": "_content/PieCodeErp",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\Branch.js"
+    },
+    {
+      "Identity": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\wwwroot\\assets\\Classifications.js",
+      "SourceId": "PieCodeErp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\wwwroot\\",
+      "BasePath": "_content/PieCodeErp",
+      "RelativePath": "assets/Classifications.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Classifications.js"
     },
     {
       "Identity": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\wwwroot\\assets\\Company.js",
@@ -151,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\ManageBranch.js"
+    },
+    {
+      "Identity": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\wwwroot\\assets\\ManageClassifications.js",
+      "SourceId": "PieCodeErp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\wwwroot\\",
+      "BasePath": "_content/PieCodeErp",
+      "RelativePath": "assets/ManageClassifications.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\ManageClassifications.js"
     },
     {
       "Identity": "E:\\Amarjit _Kumar\\PiecodeERP\\ERP\\PieCodeErp\\wwwroot\\assets\\ManageCompany.js",

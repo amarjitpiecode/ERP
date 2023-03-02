@@ -12,13 +12,6 @@ namespace PieCodeERP.Repo
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //var configuration = new ConfigurationBuilder()
-            //    .SetBasePath(Directory.GetCurrentDirectory())
-            //    .AddJsonFile("appsettings.json")
-            //    .Build();
-
-            //var connectionString = configuration.GetConnectionString("myconn");
-            //optionsBuilder.UseSqlServer(connectionString);
         }
         public DbSet<Region> Regions { get; set; }
         public DbSet<Department> Departments { get; set; }
@@ -26,6 +19,7 @@ namespace PieCodeERP.Repo
         public DbSet<CompanyMaster> CompanyMasters { get; set; }
         public DbSet<CostCenter> CostCenters { get; set; }
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<Classifications> classifications{ get; set; }
 
     }
 }

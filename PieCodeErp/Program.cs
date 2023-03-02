@@ -21,6 +21,7 @@ builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
 builder.Services.AddScoped<ICompanyRepository, CompanyRepository>();
 builder.Services.AddScoped<ICostCenterRepository, CostCenterRepository>();
 builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+builder.Services.AddScoped<IClassificationsRepository, ClassificationsRepository>();
 
 #endregion
 
@@ -32,6 +33,7 @@ builder.Services.AddScoped<IDepartmentMasterService, Departmentmasterservice>();
 builder.Services.AddScoped<ICompanyMasterService, CompanyMasterService>();
 builder.Services.AddScoped<ICostCenterMasterService, CostCenterService>();
 builder.Services.AddScoped<IEmployeeMasterService, EmployeeService>();
+builder.Services.AddScoped<IClassificationsMasterService, ClassificationsService>();
 
 #endregion
 

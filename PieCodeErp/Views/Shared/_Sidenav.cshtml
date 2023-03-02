@@ -54,14 +54,21 @@
                     </li>
                      <li class="nav-item">
                         <a class="nav-link @(Context.Request.Path == "/costcenter" ? "active" : "")" href="/CostCenter/Index">
-                            <i class="ni ni-air-baloon"></i> CostCenter
+                            <i class="ni ni-collection text-red"></i> Cos  Center
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link @(Context.Request.Path == "/employee" ? "active" : "")" href="/Employee/Index">
-                            <i class="ni ni-air-baloon"></i> Employee
+                            <i class="ni ni-air-baloon text-orange"></i> Employee
 
+                            
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link @(Context.Request.Path == "/classifications" ? "active" : "")" href="/Classifications/Index">
+                            <i class="ni ni-air-baloon text-orange"></i> Classifications
 
+                            
                         </a>
                     </li>
                   @*  <li class="nav-item">
