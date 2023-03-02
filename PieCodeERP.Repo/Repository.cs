@@ -1,17 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PiecodeERP.Data;
 using PieCodeERP.Repo.Interface;
-using System.Linq.Expressions;
-using PieCodeERP.Repo.Interface;  
-
 namespace PieCodeERP.Repo
 {
     public class Repository<T> : IRepository<T> where T : BaseEntity
     {
         private readonly ERPContext context;
-
         private DbSet<T> entities;
-        string errorMessage = string.Empty;
 
         public Repository(ERPContext context)
         {

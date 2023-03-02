@@ -6,10 +6,9 @@ namespace PieCodeERP.Repo.Interface
     {
         IList<T> GetAll();
         IQueryable<T> GetAllAsQuerable();
+        public IList<T> GetListByPredicate(Func<T, bool> predicate);
+
         T GetByPredicate(Func<T, bool> predicate);
-        T GetByPredicateWithInclude(Func<T, bool> predicate, params Expression<Func<T, object>>[] includes);
-        IList<T> GetListByPredicate(Func<T, bool> predicate);
-        IList<T> GetListByPredicateWithInclude(Func<T, bool> predicate, params Expression<Func<T, object>>[] includes);
         void Insert(T entity);
         void Update(T entity);
         void Delete(T entity);

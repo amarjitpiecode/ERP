@@ -35,11 +35,11 @@
                                 </div>
                             </div>
                         </div>
-                         <div class="row">
+                        <div class="row">
                             <div class="col-md-12">
                                 <div class="form-group">
                                     @Html.LabelFor(model => model.EmployeePhone,new {@class="form-control-label"})
-                                    @Html.EditorFor(model => model.EmployeePhone, new { htmlAttributes = new { @class = "form-control required", @Placeholder = "Employee phone" } })
+                                    @Html.EditorFor(model => model.EmployeePhone, new { htmlAttributes = new {@type="number" ,@class = "form-control required", @Placeholder = "Employee phone" } })
                                 </div>
                             </div>
                         </div>
@@ -47,8 +47,11 @@
                             <div class="col-md-12">
                                 <div class="form-group">
                                     @Html.LabelFor(model => model.CompanyId,new {@class="form-control-label"})
-                                    @Html.DropDownListFor(model => model.CompanyId,ViewBag.CompanyList as SelectList,"--select--", new { htmlAttributes = new { @class = "form-control required", @Placeholder = "Employee Name" } })
+                                    @Html.DropDownListFor(f=>f.CompanyId, ViewBag.CompanyList as SelectList, "---SELECT---", new { @class = "form-control required" })
+
+
                                 </div>
+
                             </div>
                         </div>
                     </div>
@@ -60,8 +63,8 @@
                             <button type="submit" id="btn-submit" class="btn btn-md btn-primary">
                                 Save
                             </button>
-                               <a href="/Employee/Index" class="btn btn-default">Cancel</a>
-                                    <label id="lblError" class="inline"></label>
+                            <a href="/Employee/Index" class="btn btn-default">Cancel</a>
+                            <label id="lblError" class="inline"></label>
                         </div>
                     </div>
                 </div>
@@ -70,5 +73,5 @@
     </div>
 </div>
 @section Scripts{
-<script src="~/assets/ManageEmployee.js" asp-append-version="true"></script>                        
+    <script src="~/assets/ManageEmployee.js" asp-append-version="true"></script>
 }

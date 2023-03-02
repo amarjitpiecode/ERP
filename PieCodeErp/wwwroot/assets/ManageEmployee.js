@@ -2,7 +2,6 @@
     $("#lblError").removeClass("success").removeClass("error").text('');
 
     $("#btn-submit").on("click", function () {
-        debugger
         $("#lblError").removeClass("success").removeClass("error").text('');
         var retval = true;
         $("#myForm .required").each(function () {
@@ -17,10 +16,11 @@
 
         if (retval) {
             var data = {
-                id: $("#Id").val().trim(),
+                id: $("#EmployeeId").val().trim(),
                 EmployeeName: $("#EmployeeName").val().trim(),
                 EmployeeAddress: $("#EmployeeAddress").val().trim(),
                 EmployeePhone: $("#EmployeePhone").val().trim(),
+                CompanyId: $("#CompanyId").val(),
             }
             //StartProcess();
             $.ajax({

@@ -184,7 +184,20 @@ namespace PieCodeERP.Service
             }
 
         }
+        public ERPResponseModel GetAllCopmanies()
+        {
+            try
+            {
+                var data = _companyRepository.GetAll().Where(x => x.IsActive).ToList();
+                return new ERPResponseModel() { IsSuccess = true, Data =data };
 
+            }
+            catch (Exception)
+            {
+                return new ERPResponseModel() { IsSuccess = false, Data = null };
+
+            }
+        }
 
     }
 }

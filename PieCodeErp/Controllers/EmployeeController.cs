@@ -29,16 +29,15 @@ namespace PieCodeErp.Controllers
         }
         public ActionResult Edit(int id)
         {
+            ViewBag.CompanyList = new SelectList((IList)_CompanyService.GetAllCopmanies().Data, "Id", "CompanyName");
             return View("ManageEmployee", _EmployeeService.GetEmployee(id));
         }
 
 
         public ActionResult Create()
         {
-            ViewBag.CompanyList = new SelectList((IList)_CompanyService.GetCompany(), "Id", "CompanyName");
+            ViewBag.CompanyList = new SelectList((IList)_CompanyService.GetAllCopmanies().Data, "Id", "CompanyName");
             return View("ManageEmployee", new AddEmployeeModel());
-
-            
         }
 
         public JsonResult AddOrUpdateEmployee(AddEmployeeModel EmployeeVM)
