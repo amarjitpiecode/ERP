@@ -3,11 +3,11 @@ $("document").ready(function () {
     loadAllEmployees();
  
     // Display a success toast, with a title
-    Toast.fire({
-        icon: 'success',
-        title: 'Your Level is 3.'
-    })
-})
+//    Toast.fire({
+//        icon: 'success',
+//        title: 'Your Level is 3.'
+//    })
+//})
 $("#datatable-basic").on("click", "a#btn-delete", function () {
     var id = $(this).data('id');
     $('#deleteModal').data('id', id).modal('show');
@@ -37,7 +37,7 @@ $('#delete-btn').click(function () {
 
 
 function loadAllEmployees() {
-    var url = "/Employee/GetAllCompanies"
+    var url = "/Employee/GetAllEmployee"
     table = $("#datatable-basic").DataTable({
 
         "searching": true,
@@ -49,11 +49,7 @@ function loadAllEmployees() {
             type: "POST",
             datatype: "json"
         },
-        //"columnDefs": [
-        //    { "width": "70px", "targets": 0 },
-        //    { "width": "70px", "targets": 1 },
-        //    { "width": "5px", "targets": 2 },
-        //],
+        
         "columns": [
             {
                 "data": "employeeName"

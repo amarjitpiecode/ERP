@@ -1,23 +1,28 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using PieCodeERP.Service.Interface;
 using PieCodeERP.ViewModel;
 using PieCodeERP.ViewModel.Helpers;
+using System.Collections;
 
 namespace PieCodeErp.Controllers
 {
     public class EmployeeController : Controller
     {
         private readonly IEmployeeMasterService _EmployeeService;
-        public EmployeeController(IEmployeeMasterService EmployeeService)
+        private readonly ICompanyMasterService _CompanyService;
+
+        public EmployeeController(IEmployeeMasterService EmployeeService, ICompanyMasterService companyService)
         {
             _EmployeeService = EmployeeService;
+            _CompanyService = companyService;
         }
 
         public IActionResult Index()
         {
             return View();
         }
-        public JsonResult GetAllEmployees(DataTableFilterModel filter)
+        public JsonResult GetAllEmployee(DataTableFilterModel filter)
         {
             var list = _EmployeeService.GetEmployeeList(filter);
             return Json(list);
@@ -30,7 +35,10 @@ namespace PieCodeErp.Controllers
 
         public ActionResult Create()
         {
+            ViewBag.CompanyList = new SelectList((IList)_CompanyService.GetCompany(), "Id", "CompanyName");
             return View("ManageEmployee", new AddEmployeeModel());
+
+            
         }
 
         public JsonResult AddOrUpdateEmployee(AddEmployeeModel EmployeeVM)

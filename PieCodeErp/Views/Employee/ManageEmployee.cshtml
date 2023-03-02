@@ -1,6 +1,6 @@
-﻿@model PieCodeERP.ViewModel.AddDepartmentModel
+﻿@model PieCodeERP.ViewModel.AddEmployeeModel
 @{
-    ViewData["Title"] = "Manage Department";
+    ViewData["Title"] = "Manage Employee";
 }
 
 <div class="row">
@@ -8,11 +8,11 @@
     <div class="col-xl-8 order-xl-1">
         <div class="card">
             <form id="myForm" action="javascript:;">
-                @Html.HiddenFor(model=>model.Id)
+                @Html.HiddenFor(model=>model.EmployeeId)
                 <div class="card-header">
                     <div class="row align-items-center">
                         <div class="col-12">
-                            <h3 class="mb-0">Manage Department</h3>
+                            <h3 class="mb-0">Manage Employee</h3>
                         </div>
                     </div>
                 </div>
@@ -22,16 +22,32 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    @Html.LabelFor(model => model.DepartmentName,new {@class="form-control-label"})
-                                    @Html.EditorFor(model => model.DepartmentName, new { htmlAttributes = new { @class = "form-control required", @Placeholder = "Department Name" } })
+                                    @Html.LabelFor(model => model.EmployeeName,new {@class="form-control-label"})
+                                    @Html.EditorFor(model => model.EmployeeName, new { htmlAttributes = new { @class = "form-control required", @Placeholder = "Employee Name" } })
                                 </div>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    @Html.LabelFor(model => model.DepartmentCode,new {@class="form-control-label"})
-                                    @Html.EditorFor(model => model.DepartmentCode, new { htmlAttributes = new { @class = "form-control required", @Placeholder = "Department Code" } })
+                                    @Html.LabelFor(model => model.EmployeeAddress,new {@class="form-control-label"})
+                                    @Html.EditorFor(model => model.EmployeeAddress, new { htmlAttributes = new { @class = "form-control required", @Placeholder = "Employee Address" } })
+                                </div>
+                            </div>
+                        </div>
+                         <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.EmployeePhone,new {@class="form-control-label"})
+                                    @Html.EditorFor(model => model.EmployeePhone, new { htmlAttributes = new { @class = "form-control required", @Placeholder = "Employee phone" } })
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.CompanyId,new {@class="form-control-label"})
+                                    @Html.DropDownListFor(model => model.CompanyId,ViewBag.CompanyList as SelectList,"--select--", new { htmlAttributes = new { @class = "form-control required", @Placeholder = "Employee Name" } })
                                 </div>
                             </div>
                         </div>
@@ -44,7 +60,7 @@
                             <button type="submit" id="btn-submit" class="btn btn-md btn-primary">
                                 Save
                             </button>
-                               <a href="/Department/Index" class="btn btn-default">Cancel</a>
+                               <a href="/Employee/Index" class="btn btn-default">Cancel</a>
                                     <label id="lblError" class="inline"></label>
                         </div>
                     </div>
@@ -54,5 +70,5 @@
     </div>
 </div>
 @section Scripts{
-<script src="~/assets/ManageDepartment.js" asp-append-version="true"></script>                        
+<script src="~/assets/ManageEmployee.js" asp-append-version="true"></script>                        
 }

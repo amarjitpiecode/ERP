@@ -1,12 +1,15 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PiecodeERP.Data;
 using PieCodeERP.Repo.Interface;
 using System.Linq.Expressions;
+using PieCodeERP.Repo.Interface;  
 
 namespace PieCodeERP.Repo
 {
-    public class Repository<T> : IRepository<T> where T : class
+    public class Repository<T> : IRepository<T> where T : BaseEntity
     {
         private readonly ERPContext context;
+
         private DbSet<T> entities;
         string errorMessage = string.Empty;
 
@@ -17,45 +20,17 @@ namespace PieCodeERP.Repo
         }
 
         public IList<T> GetAll()
+
         {
             return entities.ToList();
         }
 
-         
+
         public IQueryable<T> GetAllAsQuerable()
         {
             return entities.AsQueryable();
         }
 
-        public T GetByPredicate(Func<T, bool> predicate)
-        {
-            return entities.FirstOrDefault(predicate);
-        }
-        public T GetByPredicateWithInclude(Func<T, bool> predicate, params Expression<Func<T, object>>[] includes)
-        {
-            IQueryable<T> query = entities;
-            if (includes != null)
-            {
-                foreach (Expression<Func<T, object>> include in includes)
-                    query = query.Include(include);
-            }
-            return query.FirstOrDefault(predicate);
-        }
-        public IList<T> GetListByPredicate(Func<T, bool> predicate)
-        {
-            return entities.Where(predicate).ToList();
-        }
-
-        public IList<T> GetListByPredicateWithInclude(Func<T, bool> predicate, params Expression<Func<T, object>>[] includes)
-        {
-            IQueryable<T> query = entities;
-            if (includes != null)
-            {
-                foreach (Expression<Func<T, object>> include in includes)
-                    query = query.Include(include);
-            }
-            return query.Where(predicate).ToList();
-        }
         public void Insert(T entity)
         {
             if (entity == null)
@@ -68,13 +43,20 @@ namespace PieCodeERP.Repo
 
         public void Update(T entity)
         {
-            if (entity == null)
-            {
-                throw new ArgumentNullException("entity");
-            }
-            context.SaveChanges();
-        }
+            var local = context.Set<T>()
+               .Local
+               .FirstOrDefault(entry => entry.Id.Equals(entity.Id));
 
+            if (local != null)
+            {
+                context.Entry(local).State = EntityState.Detached;
+            }
+
+            context.Set<T>().Attach(entity);
+            context.Entry(entity).State = EntityState.Modified;
+            context.SaveChanges();
+
+        }
         public void Delete(T entity)
         {
             if (entity == null)
@@ -96,6 +78,14 @@ namespace PieCodeERP.Repo
         public void SaveChanges()
         {
             context.SaveChanges();
+        }
+        public T GetByPredicate(Func<T, bool> predicate)
+        {
+            return entities.FirstOrDefault(predicate);
+        }
+        public IList<T> GetListByPredicate(Func<T, bool> predicate)
+        {
+            return entities.Where(predicate).ToList();
         }
 
     }

@@ -1,6 +1,7 @@
 ﻿var table;
 $("document").ready(function () {
     loadAllCompanys();
+    debugger
  
     // Display a success toast, with a title
     Toast.fire({

@@ -9,6 +9,7 @@ namespace PieCodeERP.ViewModel
     {
 
         public int EmployeeId { get; set; }
+        
         public string EmployeeName { get; set; }
         public string EmployeeAddress { get; set; }
         public string EmployeePhone { get; set; }
@@ -18,6 +19,7 @@ namespace PieCodeERP.ViewModel
     public class AddEmployeeModel
     {
         public int EmployeeId { get; set; }
+        
 
         [Required]
         [System.ComponentModel.DisplayName("Employee Name")]
@@ -34,13 +36,14 @@ namespace PieCodeERP.ViewModel
         public bool IsActive { get; set; }
         [System.ComponentModel.DisplayName("Employeet Code")]
 
-       
+       public int CompanyId { get; set; } 
 
         public DateTime? CreationDate { get; set; }
     }
     public class UpdateEmployeeModel
     {
         public int EmployeeId { get; set; }
+        
         [Required]
         public string EmployeeName { get; set; }
         public string EmployeeAddress { get; set; }
